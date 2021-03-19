@@ -1,0 +1,24 @@
+.mp4 {
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+.gif {
+    border-style: solid;
+    border-color: rgb(0, 255, 0);
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+.webm {
+    border-style: solid;
+    border-color: rgb(0, 191, 255);
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+.bold {
+    font-weight: bold;
+}
